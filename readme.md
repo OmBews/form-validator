@@ -2,6 +2,10 @@
 
 Simple client side form validation. Check requird, length, email and password match
 
+## Demo
+
+https://tinasay.github.io/form-validator
+
 ## Project Specifications
 
 - Create form UI
